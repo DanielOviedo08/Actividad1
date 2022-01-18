@@ -1,0 +1,12 @@
+.whatsapp-icon{
+    position:fixed;
+    right: 20px;
+    bottom: 20px;
+}
+
+.carta-centrada{
+    margin:auto;
+    float:none;
+    margin-bottom:10px;
+}
+
